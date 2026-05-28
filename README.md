@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="Без имени.png" width="500" alt="Описание картинки">
+  <img src="(1)френш.gif" width="500" alt="Описание картинки">
 </p>
