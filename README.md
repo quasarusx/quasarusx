@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 class="rainbow-text">quasarusx</h1>
+  <h1>my name is <kbd>quasarusx</kbd></h1>
 </p>
 <p>
   <h3>my real face btw</h1>
