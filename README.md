@@ -1,4 +1,37 @@
 <p align="center">
-  <h1>My real face btw</h1>
+  <h1 class="rainbow-text">quasarusx</h1>
+</p>
+<p>
+  <h3>my real face btw</h1>
   <img src="интеллектуал.jpg" width="500" alt="адун">
 </p>
+
+
+.rainbow-text {
+  font-family: sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  
+  background: linear-gradient(
+    to right, 
+    #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #9400d3, #ff0000
+  );
+  
+  background-size: 200% auto;
+  
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+  
+  animation: rainbow-shift 5s linear infinite;
+}
+
+@keyframes rainbow-shift {
+  0% {
+    background-position: 0% center;
+  }
+  100% {
+    background-position: 200% center;
+  }
+}
